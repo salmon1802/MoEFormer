@@ -1,5 +1,0 @@
-joblib
-numpy
-pandas
-scikit_learn
-tqdm
