@@ -1,8 +1,10 @@
 If you have any questions, feel free to ask!  :)  
 
-## MoEFormer: A Unified Mixture-of-Experts and Transformer Architecture for Multi-Domain Recommendation (KDD'26)
+## MoEFormer: A Unified Mixture-of-Experts and Transformer Architecture for Multi-Domain Recommendation
 
 ### Model Overview
+<img width="1325" height="408" alt="image" src="https://github.com/user-attachments/assets/f909aef9-c9d8-4810-a9cc-1af476e363bb" />
+
 
 ### Datasets
 Get the datasets from [KR_Download](https://drive.google.com/file/d/1-39JNTQ-NCW1O0bFA6YtP_Rg1yl0QiSQ/view?usp=sharing)
