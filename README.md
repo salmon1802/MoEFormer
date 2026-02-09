@@ -3,7 +3,8 @@ If you have any questions, feel free to ask!  :)
 ## MoEFormer: A Unified Mixture-of-Experts and Transformer Architecture for Multi-Domain Recommendation
 
 ### Model Overview
-<img width="1325" height="408" alt="image" src="https://github.com/user-attachments/assets/f909aef9-c9d8-4810-a9cc-1af476e363bb" />
+<img width="1243" height="402" alt="image" src="https://github.com/user-attachments/assets/264cf227-bc9a-41b1-b916-e544403d8af2" />
+
 
 
 ### Datasets
